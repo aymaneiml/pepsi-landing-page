@@ -108,10 +108,7 @@ pepsi-landing-page/
     <p>For now this is a solo mini project. If you want to accept contributions later, add a <code>CONTRIBUTING.md</code> and enable issues on GitHub.</p>
   </section>
 
-  <section>
-    <h2>📬 Contact</h2>
-    <p>If you’d like feedback or improvements, add an issue on the GitHub repo or contact me at <em>your-email@example.com</em> (replace with your real email).</p>
-  </section>
+
 
   <footer>
     <small>Made with ❤️ — Pepsi Landing Page • Static HTML &amp; CSS</small>
