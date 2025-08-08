@@ -3,30 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Pepsi Landing Page — README</title>
-  <style>
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial;
-      line-height: 1.6;
-      color: #111;
-      background: #f7f9fc;
-      padding: 2rem;
-      max-width: 900px;
-      margin: auto;
-    }
-    header { text-align: center; margin-bottom: 1.5rem; }
-    h1 { margin: 0; font-size: 1.8rem; }
-    p.lead { color: #333; margin-top: .3rem; }
-    section { background: white; padding: 1rem 1.25rem; border-radius: 10px; box-shadow: 0 6px 18px rgba(16,24,40,.06); margin-bottom: 1rem; }
-    h2 { margin-top: 0; }
-    pre { background: #0b1220; color: #d6f8ff; padding: .75rem; border-radius: 6px; overflow:auto; font-size: .95rem; }
-    ul { margin-left: 1.15rem; }
-    code { background: #eef6ff; padding: .15rem .35rem; border-radius: 4px; }
-    .small { font-size: .9rem; color: #555; }
-    .note { background: #fff7d6; padding: .6rem; border-left: 4px solid #ffbf00; border-radius:6px; margin-top:.5rem; }
-    footer { text-align:center; color:#666; margin-top:1rem; }
-    a { color: #0b66ff; text-decoration: none; }
-  </style>
+
 </head>
 <body>
   <header>
